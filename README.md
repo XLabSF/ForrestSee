@@ -1,6 +1,8 @@
 # ForrestSee
 
-This is a pilot project to apply predictive modeling, especially artificial intelligence to raise awareness of community through social media.
+This is a 5-week (29/7- 3/9/2019) pilot project to apply predictive modeling, especially artificial intelligence to raise awareness of community through social media about climate change.
+
+Feel free to follow our progress through [Trello Board] (https://trello.com/b/DL7gE5bb/xlabfl-forrestsee)
 
 ### About us
 
