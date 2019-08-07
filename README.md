@@ -14,8 +14,9 @@ More details can be tracked through our [public Trello Board] (https://trello.co
 
 This is a collaboration with Frogsleap Foundation as a part of their non-profit section to transfer technology and support local community in a disadvantaged area in Vietnam.
 
+![](/doc/xlab.png)
 ![](/doc/frogleap.jpeg)
-![](/doc/xlab.jpeg)
+
 
 ### Call for support
 
