@@ -1,10 +1,9 @@
 # ForrestSee
-
----
+----
 
 This is a 5-week pilot project to build a predictive modeling (29/7- 3/9/2019). We hope to raise awareness of the youth community through social media about climate change at Son Tra Peninsula at Danang.
 
-*Timeline:*
+**Timeline:**
 - Sprint 1 (29/7 - 11/8): Setting up and kicking-off.
 - Sprint 2 (12-8 - 26/8): Implementation with basic features.
 - Sprint 3 (26/8 - 3/9): Advance Implementation.
