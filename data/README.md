@@ -33,4 +33,4 @@ landsat, usgs, etm, l7, le7, c1, tier1,
 sentinel-2
 
 # References
-[USGS] (https://www.usgs.gov/centers/eros/science/) 
+[USGS](https://www.usgs.gov/centers/eros/science/) 
