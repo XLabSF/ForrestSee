@@ -10,6 +10,8 @@ This is a 5-week pilot pythonic (mostly) project to build a predictive modeling 
 
 More details can be tracked through our public [Trello Board](https://trello.com/b/DL7gE5bb/xlabfl-forrestsee)
 
+We also have [Slack](https://join.slack.com/t/forrestsee/shared_invite/enQtNzIxNjE3NTk0OTc5LTAzOTI5NDcwZWVmMTM5MzhkMWJkYWJkY2YwZDQwMzJkMzA1MDU3MTkyNjU3OGZkY2IyOGJhYTY4MjM3ZTJjNjk) created by Giang, a mentor followed our project. Feel free to join us if you are interested in being a part of our community.
+
 
 
 ### Call for support
