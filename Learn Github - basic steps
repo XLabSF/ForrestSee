@@ -1,0 +1,67 @@
+1. Create a child branch
+  - On GitHub, navigate to the main page of the repository.
+  - Click the branch selector menu.
+  - Type a unique name for your new branch, then select Create branch.
+
+2. Upload document to a child branch
+  - choose branch you want to upload file
+  - Under your repository name, click Upload files.
+  - Drag and drop the file or folder you'd like to upload to your repository onto the file tree.
+  - At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message. For more information, see "Creating a commit with multiple co-authors."
+  - Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is master, you should choose to create a new branch for your commit and then create a pull request.
+  - Click Commit changes.
+
+3. Send a request to reviewer.
+  - Under your repository name, click  Pull requests.
+  - In the list of pull requests, click the pull request that you'd like to ask a specific person or a team to review.
+  - Navigate to Reviewers in the right sidebar.
+  - To request a review from a suggested person under Reviewers, next to their username, click Request.
+  - Optionally, to request a review from someone other than a suggested person, click Reviewers, then click on a name in the dropdown menu.
+  - Optionally, if you know the name of the person or team you'd like a review from, click Reviewers, then type the username of the person or the name of the team you're asking to review your changes. Click their team name or username to request a review.
+  - After your pull request is reviewed and you've made the necessary changes, you can ask a reviewer to re-review your pull request. Navigate to Reviewers in the right sidebar and click  next to the reviewer's name whose review you'd like.
+
+4. A review will provide some review comments
+  4.1. Starting review
+  - Under your repository name, click  Pull requests.
+  - In the list of pull requests, click the pull request you'd like to review.
+  - On the pull request, click  Files changed.
+  - Hover over the line of code where you'd like to add a comment, and click the blue comment icon.
+  - In the comment field, type your comment.
+  - Optionally, to suggest a specific change to the line, click , then edit the text within the suggestion block.
+  - When you're done, click Start a review. If you have already started a review, you can click Add review comment.
+  (Before you submit your review, your line comments are pending and only visible to you. You can edit pending comments anytime before you submit your review. To cancel a pending review, including all of its pending comments, scroll down to the end of the timeline on the Conversation tab, then click Cancel review.)
+  4.2. Making a filed as review.
+  - On the pull request, click  Files changed.
+  - On the right of the header of the file you've finished reviewing, select Viewed.
+  4.3. Submitting your review.
+  - After you've finished reviewing all the files you want in the pull request, submit your review.
+  - On the pull request, click  Files changed.
+  - Above the changed code, click Review changes.
+  - Type a comment summarizing your feedback on the proposed changes.
+  - Select the type of review you'd like to leave:
+    + Select Comment to leave general feedback without explicitly approving the changes or requesting additional changes.
+    + Select Approve to submit your feedback and approve merging the changes proposed in the pull request.
+    + Select Request changes to submit feedback that must be addressed before the pull request can be merged.
+  - Click Submit review.
+
+5. Editing files in your repository
+  - In your repository, browse to the file you want to edit.
+  - In the upper right corner of the file view, click (pencil picture) to open the file editor.
+  - On the Edit file tab, make any changes you need to the file.
+  - Above the new content, click Preview changes.
+  - At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message. For more information, see "Creating a commit with multiple co-authors."
+  - Below the commit message fields, click the email address drop-down menu and choose a Git author email address. Only verified email addresses appear in this drop-down menu. If you enabled email address privacy, then <username>@users.noreply.github.com is the default commit author email address. For more information, see "Setting your commit email address."
+  - Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is master, you should choose to create a new branch for your commit and then create a pull request.
+  - Click Propose file change.
+
+7. Merging a pull request 
+  - Under your repository name, click  Pull requests.
+  - In the "Pull Requests" list, click the pull request you'd like to merge.
+  - Depending on the merge options enabled for your repository, you can:
+  - Merge all of the commits into the base branch by clicking Merge pull request. If the Merge pull request option is not shown, then click the merge drop down menu and select Create a merge commit.
+  - Squash the commits into one commit by clicking the merge drop down menu, selecting Squash and merge and then clicking the Squash and mergebutton.
+  - Rebase the commits individually onto the base branch by clicking the merge drop down menu, selecting Rebase and merge and then clicking the Rebase and merge button.
+  - If prompted, type a commit message, or accept the default message.
+  - Below the commit message fields, click the email address drop-down menu and choose a Git author email address. Only verified email addresses appear in this drop-down menu. If you enabled email address privacy, then <username>@users.noreply.github.com is the default commit author email address. For more information, see "Setting your commit email address."
+  - Click Confirm merge, Confirm squash and merge, or Confirm rebase and merge.
+  - Optionally, delete the branch. This keeps the list of branches in your repository tidy.
